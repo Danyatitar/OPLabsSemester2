@@ -1,0 +1,13 @@
+﻿  Functions.cpp
+C:\Users\Danylo\source\repos\Lab_2(31)c\Lab_2(31)c\Functions.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)c\Lab_2(31)c\Functions.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)c\Lab_2(31)c\Functions.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)c\Lab_2(31)c\Functions.cpp(52,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)c\Lab_2(31)c\Functions.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)c\Lab_2(31)c\Functions.cpp(62,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)c\Lab_2(31)c\Functions.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)c\Lab_2(31)c\Functions.cpp(73,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)c\Lab_2(31)c\Functions.cpp(75,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)c\Lab_2(31)c\Functions.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)c\Lab_2(31)c\Functions.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+  Lab_2(31)c.vcxproj -> C:\Users\Danylo\source\repos\Lab_2(31)c\Debug\Lab_2(31)c.exe

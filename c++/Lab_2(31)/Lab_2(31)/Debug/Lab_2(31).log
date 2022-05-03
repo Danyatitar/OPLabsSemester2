@@ -1,0 +1,15 @@
+﻿  Lab_2(31).cpp
+C:\Users\Danylo\source\repos\Lab_2(31)\Lab_2(31)\structures.h(24,27): warning C4018: '<': signed/unsigned mismatch
+  functions.cpp
+C:\Users\Danylo\source\repos\Lab_2(31)\Lab_2(31)\structures.h(24,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)\Lab_2(31)\functions.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)\Lab_2(31)\functions.cpp(39,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)\Lab_2(31)\functions.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)\Lab_2(31)\functions.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)\Lab_2(31)\functions.cpp(52,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)\Lab_2(31)\functions.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)\Lab_2(31)\functions.cpp(86,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)\Lab_2(31)\functions.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_2(31)\Lab_2(31)\functions.cpp(100,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Lab_2(31).vcxproj -> C:\Users\Danylo\source\repos\Lab_2(31)\Debug\Lab_2(31).exe
