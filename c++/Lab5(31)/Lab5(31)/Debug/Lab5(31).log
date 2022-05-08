@@ -1,0 +1,23 @@
+﻿  functions.cpp
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\functions.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\TParallelepiped.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\functions.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\functions.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\TBall.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\functions.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\functions.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Lab5(31).cpp
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\TParallelepiped.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\TBall.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\functions.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\functions.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\functions.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\Lab5(31).cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TBall.cpp
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\TBall.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\TBall.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  TParallelepiped.cpp
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\TParallelepiped.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab5(31)\Lab5(31)\TParallelepiped.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Lab5(31).vcxproj -> C:\Users\Danylo\source\repos\Lab5(31)\Debug\Lab5(31).exe
