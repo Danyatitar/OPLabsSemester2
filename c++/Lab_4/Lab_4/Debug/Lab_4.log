@@ -1,0 +1,16 @@
+﻿  functions.cpp
+C:\Users\Danylo\source\repos\Lab_4\Lab_4\functions.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Lab_4.cpp
+C:\Users\Danylo\source\repos\Lab_4\Lab_4\Lab_4.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Multiplural.cpp
+C:\Users\Danylo\source\repos\Lab_4\Lab_4\Multiplural.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab_4\Lab_4\Multiplural.cpp(25,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_4\Lab_4\Multiplural.cpp(32,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_4\Lab_4\Multiplural.cpp(45,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_4\Lab_4\Multiplural.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_4\Lab_4\Multiplural.cpp(57,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_4\Lab_4\Multiplural.cpp(64,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_4\Lab_4\Multiplural.cpp(66,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_4\Lab_4\Multiplural.cpp(80,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Lab_4.vcxproj -> C:\Users\Danylo\source\repos\Lab_4\Debug\Lab_4.exe
