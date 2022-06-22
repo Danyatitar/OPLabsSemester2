@@ -1,0 +1,17 @@
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
+using namespace std;
+int main()
+{
+   int b=2;
+float a=4.7;
+int sum=0;
+ if((int) a==b){
+sum=(int)a+b;
+}
+a=4;
+sum=9;
+double e=4;
+}

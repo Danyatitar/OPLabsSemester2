@@ -1,0 +1,4 @@
+﻿  Lab_6(1).cpp
+C:\Users\Danylo\source\repos\Lab_6(1)\Lab_6(1)\Lab_6(1).cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab_6(1)\Lab_6(1)\Lab_6(1).cpp(33,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab_6(1).vcxproj -> C:\Users\Danylo\source\repos\Lab_6(1)\x64\Debug\Lab_6(1).exe

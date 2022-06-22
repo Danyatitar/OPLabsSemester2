@@ -1,0 +1,2 @@
+﻿Lab_6(1).obj : error LNK2019: unresolved external symbol "public: __thiscall Node::Node(class Identyfikator)" (??0Node@@QAE@VIdentyfikator@@@Z) referenced in function "struct Node * __cdecl create_tree(class std::vector<class Identyfikator,class std::allocator<class Identyfikator> >,int)" (?create_tree@@YAPAUNode@@V?$vector@VIdentyfikator@@V?$allocator@VIdentyfikator@@@std@@@std@@H@Z)
+C:\Users\Danylo\source\repos\Lab_6(1)\Debug\Lab_6(1).exe : fatal error LNK1120: 1 unresolved externals
